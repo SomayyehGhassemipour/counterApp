@@ -49,6 +49,7 @@ class App extends Component {
     return (
       <div className="main__wrap">
         <main className="container">
+        <h1>Counter Application</h1>
           <div className="card__box">
             <NavBar
               totalCounters={
